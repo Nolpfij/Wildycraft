@@ -1,0 +1,19 @@
+[
+{
+"modid": "nolpfij_wildycraft",
+"name": "Wildycraft",
+"description": "Explore a new dimension based on Runescape. Fight new mobs, find new ores, and even summon familiars!",
+"version": "",
+"credits": "Created by Nolpfij",
+"logoFile": "assets/logo.png",
+"mcversion": "",
+"url": "",
+"updateUrl": "",
+"authors": [ "Nolpfij", "Waffletotsss", "Wolfhound115" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
